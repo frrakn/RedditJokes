@@ -1,2 +1,2 @@
 # RedditJokes
-Simple Pebble application that pulls /r/Jokes
+Pebble application that pulls /r/Jokes
